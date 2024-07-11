@@ -212,8 +212,6 @@ def TimeLeftLogic():
             sleep(int(SumStuffToComaper[numberToSleep-1])+1)
             numofTimeWatched.append(int(SumStuffToComaper[numberToSleep-1]))
             return True
-def CheckNumberOfCoins():
-    pass
 Accounts=[[695,1052],[749,1050]]
 ChangeAccount=False
 #The positions of the Cointiply page and the cose button to exit out of the code
